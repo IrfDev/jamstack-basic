@@ -1,0 +1,17 @@
+html,
+body {
+    color: #555555;
+    font-family: futura;
+    font-size: 1em;
+}
+
+h1 {
+    font-size: 1.5em;
+    color: black;
+}
+
+main {
+    margin: 1em auto;
+    max-width: 90vw;
+    width: 50ch;
+}
